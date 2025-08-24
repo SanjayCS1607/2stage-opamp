@@ -1,4 +1,5 @@
-2 Stage-Opamp:
+#2 Stage-Opamp:
+
 The road for the expanding market of sophisticated
 electronics applications in mobiles and sensor applications
 was created by the recent development in CMOS scaling. The
